@@ -3,18 +3,14 @@ import java.util.HashMap;
 public class HashMapBasic {
     public static void main(String[] args)
     {
-
         HashMap<String, Integer> map
                 = new HashMap<>();
-
         print(map);
         map.put("Naruto", 10);
         map.put("Sasuke", 90);
         map.put("Sakura", 20);
-
         System.out.println("Size of map is:- "
                 + map.size());
-
         print(map);
         if (map.containsKey("Naruto")) {
             Integer a = map.get("Naruto");
