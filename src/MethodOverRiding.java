@@ -26,3 +26,4 @@ public class MethodOverRiding {
         obj2.getMessage();
     }
 }
+//static methods can not be overridden
