@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc554ae1-7bbf-43f4-83eb-cd14c1d9eeee" name="Default Changelist" comment="26/01/2020">
-      <change afterPath="$PROJECT_DIR$/src/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticBlock.java" afterDir="false" />
+    <list default="true" id="bc554ae1-7bbf-43f4-83eb-cd14c1d9eeee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/AutoMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/Blocks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/DynamicBinding$Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/DynamicBinding$Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/DynamicBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/MethodOverRiding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/MethodOverloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/StaticBinding$SubClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/StaticBinding$SuperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/StaticBinding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JAVA_Codes/Title.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverRiding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodOverRiding.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,51 +31,37 @@
     <favorites_list name="JAVA_Codes" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StaticBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-              <folding>
-                <element signature="e#29#30#0" expanded="true" />
-                <element signature="e#84#85#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StaticBinding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicBinding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.49723756">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/SocCLient.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/SocServer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="289">
+                  <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,14 +119,18 @@
         <option value="$PROJECT_DIR$/src/StaticBlock.java" />
         <option value="$PROJECT_DIR$/src/StaticBinding.java" />
         <option value="$PROJECT_DIR$/src/DynamicBinding.java" />
+        <option value="$PROJECT_DIR$/src/Blocks.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/SocCLient.java" />
+        <option value="$PROJECT_DIR$/src/SocServer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-50" />
-    <option name="y" value="113" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="187" />
+    <option name="y" value="200" />
+    <option name="width" value="1079" />
+    <option name="height" value="694" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,9 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +154,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,9 +177,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Blocks">
+  <component name="RunManager" selected="Application.SocCLient">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
+      <module name="JAVA_Codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
       <module name="JAVA_Codes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -193,22 +199,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverRiding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverRiding" />
+    <configuration name="SocCLient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SocCLient" />
       <module name="JAVA_Codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticBinding" />
-      <module name="JAVA_Codes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticBlock" />
+    <configuration name="SocServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SocServer" />
       <module name="JAVA_Codes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SocCLient" />
+        <item itemvalue="Application.SocServer" />
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.Blocks" />
         <item itemvalue="Application.DynamicBinding" />
-        <item itemvalue="Application.StaticBinding" />
-        <item itemvalue="Application.StaticBlock" />
-        <item itemvalue="Application.MethodOverRiding" />
       </list>
     </recent_temporary>
   </component>
@@ -298,14 +297,20 @@
       <option name="project" value="LOCAL" />
       <updated>1580058569930</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="29/01/2020">
+      <created>1580315672778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580315672778</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20121029" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -314,8 +319,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20294599" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" x="271" y="183" width="680" height="437" id="Run" order="2" type="WINDOWED" visible="true" weight="0.21931261" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,7 +386,8 @@
     <MESSAGE value="22/01/2020" />
     <MESSAGE value="23/01/2020" />
     <MESSAGE value="26/01/2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="26/01/2020" />
+    <MESSAGE value="29/01/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="29/01/2020" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/IdentifiersAndDataType.java">
@@ -596,40 +602,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StaticBlock.java">
+    <entry file="file://$PROJECT_DIR$/src/Blocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding>
-            <element signature="e#29#30#0" expanded="true" />
-            <element signature="e#84#85#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="384">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StaticBinding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="64">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SocServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicBinding.java">
+    <entry file="file://$PROJECT_DIR$/src/SocCLient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
